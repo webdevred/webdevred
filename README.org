@@ -1,0 +1,33 @@
+#+TITLE: Welcome to My GitHub Profile
+#+AUTHOR: webdevred
+#+DESCRIPTION: Introduction to my programming interests and projects
+
+* About Me
+Hello! I am a passionate developer with a strong passion for:
+
+- Backend web development (PHP in particular) & systems programming
+- Functional programming (Haskell, Lisp, etc.)
+- Databases, particularly SQL
+
+I have professional experience working with:
+- PHP (certified PHP developer)
+- Python
+- SQL (certified SQL developer)
+
+* My Projects
+Here are some of my notable repositories:
+
+** [[https://github.com/webdevred/wpc][WPC (Wallpaper Changer)]]
+A user-friendly application that allows you to set wallpapers for both your desktop and lock screen. WPC supports various image formats and offers a simple interface to personalize your computer's appearance.
+
+Features:
+
+- Set wallpapers for desktop and lock screen.
+- Support for common image formats (JPEG, PNG, BMP, etc.).
+- Simple and intuitive GUI.
+
+** [[https://github.com/webdevred/mattarikon_schema][Mattarikon Schema]]
+
+I am responsible for the development of the schedule of the Mattarikon which is an anime festival in Upplands Väsby.
+The schedule is written in PHP 8 and uses MariaDB. My schedule was much appreciated  by those arranging the festival as well the visitors.
+It includes SQL scripts and PHP files aimed at creating, editing, and managing database notifications and activities.
